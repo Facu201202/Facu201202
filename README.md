@@ -30,17 +30,18 @@ Me gusta construir soluciones completas, aprender nuevas herramientas y trabajar
 ### 📂 Proyectos destacados
 
 - **[Restaurant Reservation App](https://github.com/Facu201202/Restaurant-Reservation-App)**  
-  Sistema de reservas con autenticación y validación de turnos. (Node.js + MySQL + JWT)
+  Sistema de reservas con autenticación y validación de turnos.
 
-- **[UpTask Frontend](https://github.com/Facu201202/UpTask_Frontend)**  
-  Gestor de tareas colaborativo con login y consumo de API protegida. (React + Tailwind)
+- **[UpTask](https://github.com/Facu201202/UpTask_Frontend)**  
+  Gestor de tareas colaborativo con login y consumo de API protegida.
 
 - **[Quiosco App](https://github.com/Facu201202/quiosco_next_app_router)**  
-  Simulación de pedidos en un quiosco digital. (Next.js App Router + Zustand)
+  Simulación de pedidos en un quiosco digital.
 
 ---
 
 ### 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/facundo-fern%C3%A1ndez-4a4969323/)  
-📧 facuu201202@gmail.com
+[LinkedIn](https://www.linkedin.com/in/facundo-leonel-fernández/)  
+[Correo](facuu201202@gmail.com) 
+ 

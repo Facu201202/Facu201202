@@ -44,4 +44,5 @@ Me gusta construir soluciones completas, aprender nuevas herramientas y trabajar
 
 [LinkedIn](https://www.linkedin.com/in/facundo-leonel-fernández/)  
 [Correo](facuu201202@gmail.com) 
+[Ver mi CV](https://drive.google.com/file/d/1bQvLZHh_4F2x73Xq1OskSQuaOHxQbKaG/view)
  

@@ -1,13 +1,13 @@
 # ¡Hola! Soy Facundo 👋
 
 **Desarrollador Full Stack Jr.**  
-Node.js ⚙️ · React ⚛️ · PostgreSQL 🗄️ · Next.js 🚀
+Node.js ⚙️ · TypeScript 🟦 · React ⚛️ · PostgreSQL 🗄️ · Next.js 🚀
 
 ---
 
 ### 🚀 Sobre mí
 
-Soy desarrollador full stack actualmente cursando el último año de la **Tecnicatura en Análisis de Sistemas**. Me especializo en backend con **Node.js, TypeScript, MySQL y PostgreSQL**, y también desarrollo interfaces modernas con **React y Next.js**.
+Soy desarrollador full stack con una **Tecnicatura en Análisis de Sistemas**. Me especializo en backend con **Node.js, TypeScript, MySQL y PostgreSQL**, y también desarrollo interfaces con **React y Next.js**.
 
 Me gusta construir soluciones completas, aprender nuevas herramientas y trabajar en proyectos reales que resuelvan problemas concretos.
 
@@ -44,9 +44,3 @@ Me gusta construir soluciones completas, aprender nuevas herramientas y trabajar
 
 [LinkedIn](https://www.linkedin.com/in/facundo-fern%C3%A1ndez-4a4969323/)  
 📧 facuu201202@gmail.com
-
----
-
-### 📈 GitHub Stats *(opcional)*
-
-![Facundo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Facu201202&show_icons=true&theme=github_dark&hide_border=true)

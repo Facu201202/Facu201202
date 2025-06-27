@@ -1,19 +1,19 @@
-# ¡Hola! Soy Facundo 👋
+# 👋 Hi! I'm Facundo
 
-**Desarrollador Full Stack Jr.**  
+**Junior Full Stack Developer**  
 Node.js ⚙️ · TypeScript 🟦 · React ⚛️ · PostgreSQL 🗄️ · Next.js 🚀
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
-Soy desarrollador full stack con una **Tecnicatura en Análisis de Sistemas**. Me especializo en backend con **Node.js, TypeScript, MySQL y PostgreSQL**, y también desarrollo interfaces con **React y Next.js**.
+I'm a full stack developer currently finishing a **Technical Degree in Systems Analysis**. I specialize in backend development with **Node.js, TypeScript, MySQL, and PostgreSQL**, and I also build user interfaces using **React and Next.js**.
 
-Me gusta construir soluciones completas, aprender nuevas herramientas y trabajar en proyectos reales que resuelvan problemas concretos.
+I enjoy building complete solutions, learning new tools, and working on real projects that solve practical problems.
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Technologies & Tools
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,20 +27,20 @@ Me gusta construir soluciones completas, aprender nuevas herramientas y trabajar
 
 ---
 
-### 📂 Proyectos destacados
+### 📂 Featured Projects
 
 - **[Restaurant Reservation App](https://github.com/Facu201202/Restaurant-Reservation-App)**  
-  Sistema de reservas con autenticación y validación de turnos.
+  Reservation system with authentication and shift validation.
 
 - **[UpTask](https://github.com/Facu201202/UpTask_Frontend)**  
-  Gestor de tareas colaborativo con login y consumo de API protegida.
+  Collaborative task manager with login and protected API integration.
 
-- **[Quiosco App](https://github.com/Facu201202/quiosco_next_app_router)**  
-  Simulación de pedidos en un quiosco digital.
+- **[Kiosk App](https://github.com/Facu201202/quiosco_next_app_router)**  
+  Digital kiosk simulation for placing and tracking orders.
 
 ---
 
-### 📫 Contacto
+### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/facundo-leonel-fernández/)  |  [Correo](facuu201202@gmail.com)  |  [Ver mi CV](https://drive.google.com/file/d/1bQvLZHh_4F2x73Xq1OskSQuaOHxQbKaG/view)
- 
+[LinkedIn](https://www.linkedin.com/in/facundo-leonel-fernández/)  ·  [Email](mailto:facuu201202@gmail.com)  ·  [View my CV]([https://drive.google.com/file/d/1bQvLZHh_4F2x73Xq1OskSQuaOHxQbKaG/view](https://drive.google.com/file/d/1ba7oBve9KIPcG3lKIXADaeKT_eL3rUYe/view?usp=drive_link))
+

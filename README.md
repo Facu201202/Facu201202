@@ -42,5 +42,5 @@ I enjoy building complete solutions, learning new tools, and working on real pro
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/facundo-leonel-fernández/)  ·  [Email](mailto:facuu201202@gmail.com)  ·  [View my CV]([https://drive.google.com/file/d/1bQvLZHh_4F2x73Xq1OskSQuaOHxQbKaG/view](https://drive.google.com/file/d/1ba7oBve9KIPcG3lKIXADaeKT_eL3rUYe/view?usp=drive_link))
+[LinkedIn](https://www.linkedin.com/in/facundo-leonel-fernández/)  ·  [Email](mailto:facuu201202@gmail.com)  ·  [View my CV](https://drive.google.com/file/d/1ba7oBve9KIPcG3lKIXADaeKT_eL3rUYe/view)
 
